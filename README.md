@@ -10,4 +10,6 @@ usage
 - DIRECTORY defaults to the current directory
 - if no keys are provided all available keys are retrieved
 
-
+dependencies
+------------
+requires curl and jq to be on the path.
